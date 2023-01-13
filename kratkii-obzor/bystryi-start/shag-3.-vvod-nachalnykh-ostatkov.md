@@ -8,7 +8,7 @@
 
 Ввод начальных остатков подразумевает:
 
-* [Ввод начальных остатков ТМЦ](broken-reference)
+* [Ввод начальных остатков ТМЦ](shag-3.-vvod-nachalnykh-ostatkov.md#vvod-nachalnykh-ostatkov-tmc)
 * [Ввод начального баланса счетов](shag-3.-vvod-nachalnykh-ostatkov.md#vvod-nachalnogo-balansa-schetov)
 * [Ввод начального баланса клиентов](shag-3.-vvod-nachalnykh-ostatkov.md#vvod-nachalnogo-balansa-klientov)
 * [Ввод начального баланса поставщиков](shag-3.-vvod-nachalnykh-ostatkov.md#vvod-nachalnogo-balansa-postavshikov)
