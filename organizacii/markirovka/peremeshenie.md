@@ -194,7 +194,7 @@
 
 ![Склад организации получателя](https://storage.crisp.chat/users/helpdesk/website/29775490664f3600/image\_13hmyg3.png)
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![Выбор документа приема](https://storage.crisp.chat/users/helpdesk/website/29775490664f3600/image\_17j8wbr.png)
 

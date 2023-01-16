@@ -11,7 +11,7 @@
   * [Шаг 4. Закуп и продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/README.md)
     * [Закуп товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/zakup-tovara.md)
     * [Визиты](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/vizity.md)
-    * [Реализация товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/realizaciya-tovara.md)
+    * [Продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/prodazha-tovara.md)
 
 ## Администрирование
 
