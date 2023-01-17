@@ -168,7 +168,7 @@
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 После завершения визита, вам нужно будет сделать _**Синхронизацию**_, для того чтобы данные о вашем заказе, отправились на сервер, и оператор мог видеть, что был доставлен заказ в торговую точку.
