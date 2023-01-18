@@ -1,4 +1,4 @@
-# Закуп товара
+# Шаг 4. Закуп и продажа товара
 
 **Закуп товара** - процесс купли товаров для их дальнейшей реализации в вашей Организации. В данном процессе участвуют две стороны, поставщики и вы.
 
@@ -6,15 +6,15 @@
 
 * Перейдите в меню **Склад -> Закупки -> Создать**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * В открывшейся форме заполните следующие блоки:
 
-1. [Основное](zakup-tovara.md#osnovnoe)
-2. [ТМЦ](zakup-tovara.md#tmc)
-3. [Завершение](zakup-tovara.md#zavershenie)
+1. [Основное](shag-4.-zakup-i-prodazha-tovara.md#osnovnoe)
+2. [ТМЦ](shag-4.-zakup-i-prodazha-tovara.md#tmc)
+3. [Завершение](shag-4.-zakup-i-prodazha-tovara.md#zavershenie)
 
 ### Основное
 
@@ -22,8 +22,8 @@
 
 * **Дата закупки** - дата закупа ваших товаров
 * **Шаблон операции** - список, где выбирается шаблон, по которому будут определяться нижестоящие поля (_поставщик, договор, тип оплаты_...). В системе имеется системный шаблон на закуп, основанный на вида движений (_приходы и расходы_). Для того чтобы добавить новый шаблон операции, нажмите на кнопку **Добавить**.
-* **Поставщик** - лицо, поставляющее товар в вашу Организацию. Добавление поставщика описано [во втором шаге быстрого старта](../shag-2.-napolnenie-spravochnikov.md#baza-kontragentov).
-* **Рабочая зона** - рабочая территория, на которой осуществляется процесс закупа товаров. [Из ранее созданных рабочих зон](../shag-2.-napolnenie-spravochnikov.md#rabochaya-zona), выбирается та, которая непосредственно связана с текущим закупом товара.&#x20;
+* **Поставщик** - лицо, поставляющее товар в вашу Организацию. Добавление поставщика описано [во втором шаге быстрого старта](shag-2.-napolnenie-spravochnikov.md#baza-kontragentov).
+* **Рабочая зона** - рабочая территория, на которой осуществляется процесс закупа товаров. [Из ранее созданных рабочих зон](shag-2.-napolnenie-spravochnikov.md#rabochaya-zona), выбирается та, которая непосредственно связана с текущим закупом товара.&#x20;
 
 {% hint style="info" %}
 При оформлении закупа, в поле **Штат** желательно выбирать штат с ролью **Оператор**, так как большинство проводок документов выполняет именно оператор вашей системы.
@@ -51,7 +51,7 @@
 
 *   **Товар, Сырье, Рекламное оборудование, Услуга** - типы ТМЦ, выбрав один из которых вам нужно указать:
 
-    * Название - список, где выбирается ТМЦ, которое было введено вами при [наполнении справочников](../shag-2.-napolnenie-spravochnikov.md). При выборе нужной ТМЦ, вам также необходимо указать:
+    * Название - список, где выбирается ТМЦ, которое было введено вами при [наполнении справочников](shag-2.-napolnenie-spravochnikov.md). При выборе нужной ТМЦ, вам также необходимо указать:
       * Кол-во - количество товара
       * Цена - цена товара
 
@@ -61,7 +61,7 @@
 Для того чтобы ускорить процесс выбора необходимых ТМЦ, вы можете воспользоваться подбором или же импортом. Ниже показано расположение соответствующих кнопок.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Завершение
 
@@ -88,24 +88,24 @@
 
 **Продажа товара** - процесс реализации товаров в торговых точках. В данном процессе участвуют клиенты (торговые точки) и вы.
 
-Возможность оформлять заказы можно как и с [веб](zakup-tovara.md#process-prodazhi-tovarov-v-veb-versii-sistemy) так и с мобильной версии системы
+Возможность оформлять заказы можно как и с [веб](shag-4.-zakup-i-prodazha-tovara.md#process-prodazhi-tovarov-v-veb-versii-sistemy) так и с мобильной версии системы
 
 ### Процесс оформления заказов в веб версии системы
 
 * Перейдите в меню **Продажа -> Заказы -> Создать**
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * В открывшейся форме заполните блоки:
 
-1. [Основное](zakup-tovara.md#osnovnoe)
-2. [ТМЦ](zakup-tovara.md#tmc)
-3. [Промо](zakup-tovara.md#promo)
-4. [Оплата](zakup-tovara.md#oplata)
-5. [Дополнительно](zakup-tovara.md#dopolnitelno)
-6. [Завершение](zakup-tovara.md#zavershenie-1)
+1. [Основное](shag-4.-zakup-i-prodazha-tovara.md#osnovnoe)
+2. [ТМЦ](shag-4.-zakup-i-prodazha-tovara.md#tmc)
+3. [Промо](shag-4.-zakup-i-prodazha-tovara.md#promo)
+4. [Оплата](shag-4.-zakup-i-prodazha-tovara.md#oplata)
+5. [Дополнительно](shag-4.-zakup-i-prodazha-tovara.md#dopolnitelno)
+6. [Завершение](shag-4.-zakup-i-prodazha-tovara.md#zavershenie-1)
 
 ### Основное
 
@@ -118,7 +118,7 @@
 Большая часть отчетности работает по дате отгрузки, так как товар списывается со склада и уже не является остатком.
 {% endhint %}
 
-* **Рабочая зона** - рабочая территория, на которой осуществляется процесс продажи товаров. Исходя из рабочей зоны, будут фильтроваться такие поля как Штат и Клиент, так как они [закреплялись за рабочей зоной](../shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei)
+* **Рабочая зона** - рабочая территория, на которой осуществляется процесс продажи товаров. Исходя из рабочей зоны, будут фильтроваться такие поля как Штат и Клиент, так как они [закреплялись за рабочей зоной](shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei)
 * **Штат** -ответственное лицо за продажу товаров
 * **Клиент** - торговая точка, закупающая товар у вашей Организации
 
@@ -134,7 +134,7 @@
 Для того чтобы ускорить процесс выбора необходимых ТМЦ, вы можете воспользоваться подбором или же импортом. Ниже показано расположение соответствующих кнопок.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Промо
 
@@ -148,7 +148,7 @@
 В текущем блоке вам необходимо выбрать один из **Типов оплат**, по которому будет производится оплата от клиента.
 
 {% hint style="info" %}
-В списке типов оплат появятся только те, которые были прикреплены к [вашей организации](../shag-2.-napolnenie-spravochnikov.md#2.-prikreplenie-tipov-oplat) и [рабочей зоне](../shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei).
+В списке типов оплат появятся только те, которые были прикреплены к [вашей организации](shag-2.-napolnenie-spravochnikov.md#2.-prikreplenie-tipov-oplat) и [рабочей зоне](shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei).
 {% endhint %}
 
 ### Дополнительно
@@ -204,7 +204,7 @@
 {% hint style="info" %}
 Если текущий пользователь был закреплен за несколькими рабочими зонами, после нажатия на кнопку **Визит**, появится список с рабочими зонами, где вам нужно выбрать рабочую зону, к которой также был закреплен и клиент (физ. или юр. лицо), чтобы оформить заказ у данного клиента.
 
-См. также: [Прикрепление сущностей к рабочим зонам](../shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei).
+См. также: [Прикрепление сущностей к рабочим зонам](shag-2.-napolnenie-spravochnikov.md#prikreplenie-sushnostei).
 {% endhint %}
 
 * Далее, нажмите на кнопку Заказ, и в открывшемся окне кликните на значок `+` напротив поля **Товары**

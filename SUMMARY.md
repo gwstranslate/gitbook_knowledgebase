@@ -8,10 +8,11 @@
   * [Шаг 1. Создание орг. структуры](kratkii-obzor/bystryi-start/shag-1.-sozdanie-org.-struktury.md)
   * [Шаг 2. Наполнение справочников](kratkii-obzor/bystryi-start/shag-2.-napolnenie-spravochnikov.md)
   * [Шаг 3. Ввод начальных остатков](kratkii-obzor/bystryi-start/shag-3.-vvod-nachalnykh-ostatkov.md)
-  * [Шаг 4. Закуп и продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/README.md)
-    * [Закуп товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/zakup-tovara.md)
-    * [Визиты](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/vizity.md)
-    * [Продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara/prodazha-tovara.md)
+  * [Шаг 4. Закуп и продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara.md)
+
+***
+
+* [Визиты](vizity.md)
 
 ## Администрирование
 
