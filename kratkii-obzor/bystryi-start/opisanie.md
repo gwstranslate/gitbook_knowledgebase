@@ -21,4 +21,4 @@
 3. Возможность выполнять все складские операции (_от закупов до складских перемещений_)
 4. Детальную отчетность по всему документообороту в вашей Организации
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Приступить к быстрому запуску системы</td><td></td><td></td><td><a href="shag-1.-sozdanie-org.-struktury.md">shag-1.-sozdanie-org.-struktury.md</a></td></tr></tbody></table>
+[Приступить к быстрому запуску системы](shag-1.-sozdanie-org.-struktury.md)
