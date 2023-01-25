@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * В открывшейся форме заполните следующие блоки:
 
@@ -61,7 +61,7 @@
 Для того чтобы ускорить процесс выбора необходимых ТМЦ, вы можете воспользоваться подбором или же импортом. Ниже показано расположение соответствующих кнопок.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Завершение
 
@@ -94,7 +94,7 @@
 
 * Перейдите в меню **Продажа -> Заказы -> Создать**
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
@@ -134,7 +134,7 @@
 Для того чтобы ускорить процесс выбора необходимых ТМЦ, вы можете воспользоваться подбором или же импортом. Ниже показано расположение соответствующих кнопок.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Промо
 
