@@ -10,10 +10,6 @@
   * [Шаг 3. Ввод начальных остатков](kratkii-obzor/bystryi-start/shag-3.-vvod-nachalnykh-ostatkov.md)
   * [Шаг 4. Закуп и продажа товара](kratkii-obzor/bystryi-start/shag-4.-zakup-i-prodazha-tovara.md)
 
-***
-
-* [Визиты](vizity.md)
-
 ## Модули системы
 
 * [Главное](moduli-sistemy/glavnoe/README.md)
