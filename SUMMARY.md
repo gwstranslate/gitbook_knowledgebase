@@ -14,6 +14,17 @@
 
 * [Визиты](vizity.md)
 
+## Модули системы
+
+* [Главное](moduli-sistemy/glavnoe.md)
+* [Продажа](moduli-sistemy/prodazha.md)
+* [Склад](moduli-sistemy/sklad.md)
+* [Финансы](moduli-sistemy/finansy.md)
+* [Кадры и зарплата](moduli-sistemy/kadry-i-zarplata.md)
+* [Производство](moduli-sistemy/proizvodstvo.md)
+* [Справочники](moduli-sistemy/spravochniki.md)
+* [Мерчандайзинг](moduli-sistemy/merchandaizing.md)
+
 ## Администрирование
 
 * [Общее положение](administrirovanie/obshee-polozhenie.md)
