@@ -49,9 +49,12 @@
 
 * В форме Организации, кликните на нужную Организацию и нажмите на кнопку **Прикрепить пользователей**
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Затем, перейдите в пункт Доступные, выберите пользователей и нажмите на кнопку **Прикрепить**
+* Затем, перейдите в пункт **Доступные**, выберите пользователей и нажмите на кнопку **Прикрепить**
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Для открепления пользователей, перейдите в пункт **Прикрепленные**, выберите пользователей и нажмите на кнопку **Открепить.**
+{% endhint %}

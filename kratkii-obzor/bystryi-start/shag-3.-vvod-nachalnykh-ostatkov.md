@@ -41,7 +41,7 @@
 Для того чтобы ускорить процесс ввода остатков, вы можете воспользоваться подбором или же импортом. Ниже показано расположение соответствующих кнопок.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Остальные поля заполняются опционально. Подробности о вводе начальных остатков ТМЦ вы можете найти по ссылке.
