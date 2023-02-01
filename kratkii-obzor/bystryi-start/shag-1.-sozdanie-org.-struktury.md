@@ -178,7 +178,7 @@
 
 Перейдите в меню **Справочники -> Штат -> Создать**
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
@@ -336,7 +336,7 @@
 
 * В открывшейся форме кликните на роль, для которой хотите настроить доступ, и нажмите на кнопку **Прикрепление -> Прикрепление доступов**
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Вам будут доступны пункты **Прикрепленные и Доступные**, в которых буду располагаться список прикрепленных и доступных форм для прикрепления к текущей роли соответственно

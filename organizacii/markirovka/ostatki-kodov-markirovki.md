@@ -70,4 +70,4 @@
 
 * В открывшейся форме можно будет доступна таблица, в которой будут отображаться данные о всех доступных кодах маркировки выбранного вами товара.
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
